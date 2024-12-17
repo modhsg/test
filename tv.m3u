@@ -15,14 +15,14 @@ https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$153/2.mpd/Manifest.mpd?start=LIVE
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png" group-title="MPD SPORT", Sportv 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d7f432f2e07149cb86db8707d135fb33:83620e9499380d706721dd66ba67020a
-https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$154/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD
+https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$10/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png" group-title="MPD SPORT", Sportv 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0df9d6c85b0e498689eedc0a22e75689:9769f84b961d67e8e3484c1e384f1fb4
-https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$155/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD
+https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$112/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png" group-title="MPD SPORT", Sportv 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40affdcf424547989c36cc7331a3bd1e:2661876d9cdedf703d97c3f79b58c3ca
-https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$156/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD
+https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$566/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD
 
 
