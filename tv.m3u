@@ -1,6 +1,6 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-KEY:METHOD=SAMPLE-AES,URI="data:text/plain;base64,eyJlMzYwZDAwOGY0ZDM0MTkwYTQyMGM1Y2QyZDEwNGVlNSI6IjhjOTFlOWMxZjkxYzYxNjY0MGQwODNhZDU4ZTY1M2Y2In0="
-#EXTINF:-1,Stream com ClearKey
-https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$151/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD
 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png" group-title="MPD SPORT", Vodafone Stream 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e360d008f4d34190a420c5cd2d104ee5:8c91e9c1f91c616640d083ad58e653f6
+https://rr.cdn.vodafone.pt/sdash_VTV_LIVE/LIVE$151/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_P_SSP_LIVE_HD
